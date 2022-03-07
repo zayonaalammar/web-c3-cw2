@@ -1,0 +1,9 @@
+h1 {
+  font-size: medium;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.container {
+  padding: 6px;
+  color: aliceblue;
+}
